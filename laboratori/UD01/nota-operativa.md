@@ -19,3 +19,5 @@ La versione del sistema operativo è stata verificata tramite:
 sw_vers
 
 La postazione utilizza macOS 26.6.2, build 25G83.
+
+Il comando che ho trovato più utile nell'unità è `git status`, perché permette di controllare rapidamente lo stato del repository e capire quali file sono modificati, non tracciati oppure già preparati per il prossimo commit.
