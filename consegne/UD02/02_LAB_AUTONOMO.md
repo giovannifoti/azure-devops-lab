@@ -107,4 +107,4 @@ La verifica indipendente tramite Azure Portal ha mostrato lo stesso insieme di r
 - risorse eliminate: resource group `rg-cea-ud02-auto-bba1caf1` e tutte le risorse contenute, incluse VNet, subnet e storage account.
 - controllo finale: `az group exists --name "$AUTO_RG"`.
 - risultato finale del cleanup: `false`, quindi il resource group autonomo non esiste più.
-- hash abbreviato e messaggio del commit: da completare dopo il commit `Completa lo scenario Azure autonomo`.
+- hash abbreviato e messaggio del commit: `32818c8` — `Completa lo scenario Azure autonomo`.
